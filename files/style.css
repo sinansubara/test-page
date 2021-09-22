@@ -1,27 +1,16 @@
 body{
     margin:0;
 }
-.footer{
-    position: fixed;
-    width: 50%;
-    height: 120px;
-    bottom: 0;
-    margin-left: 25%;
-    background-color: aqua;
-    border-top-left-radius: 22px;
-    border-top-right-radius: 22px;
+div h1{
+    color: blue;
+    background-color: red;
 }
-.footer-content{
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 10%;
+div span{
+    background-color: white;
 }
-.footer-content p:nth-child(1){
-    font-size: 16px;
-    text-align: center;
+#Prvi{
+    background-color: green;
 }
-.footer-content p:nth-child(2){
-    font-size: 36px;
-    font-weight: bold;
-    margin: 0;
+.Drugi{
+    background-color: yellow;
 }
