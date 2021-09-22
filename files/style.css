@@ -25,3 +25,16 @@ body{
     font-weight: bold;
     margin: 0;
 }
+.salko {
+    color:blue;
+    background-color: red;
+}
+div.salko span{
+    background-color: white;
+}
+div.salko span.ori{
+    background-color: yellow;
+}
+div.salko span#mame{
+    background-color: green;
+}
